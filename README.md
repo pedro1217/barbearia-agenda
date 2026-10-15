@@ -74,7 +74,23 @@ O sistema utiliza recursos como:
 
 ## 📸 Capturas de tela
 
-As imagens do sistema serão adicionadas nesta seção para apresentar o login, o painel e as funcionalidades principais.
+### 🏠 Painel principal
+![Dashboard](docs/imagens/dashboard.png)
+
+### 🔐 Tela de login
+![Login](docs/imagens/login.png)
+
+### 👥 Cadastro de clientes
+![Cadastro de clientes](docs/imagens/clientes-cadastro.png)
+
+### 📋 Listagem de clientes
+![Clientes cadastrados](docs/imagens/clientes-lista.png)
+
+### 📅 Novo agendamento
+![Novo agendamento](docs/imagens/agendamentos-cadastro.png)
+
+### 🗓️ Gerenciamento de agendamentos
+![Lista de agendamentos](docs/imagens/agendamentos-lista.png)
 
 ## 👨‍💻 Desenvolvedor
 
