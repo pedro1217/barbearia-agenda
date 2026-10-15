@@ -75,22 +75,22 @@ O sistema utiliza recursos como:
 ## 📸 Capturas de tela
 
 ### 🏠 Painel principal
-![Dashboard](docs/imagens/dashboard.png)
+![Dashboard](docs/image/dashboard.png)
 
 ### 🔐 Tela de login
-![Login](docs/imagens/login.png)
+![Login](docs/image/login.png)
 
 ### 👥 Cadastro de clientes
-![Cadastro de clientes](docs/imagens/clientes-cadastro.png)
+![Cadastro de clientes](docs/image/clientes-cadastro.png)
 
 ### 📋 Listagem de clientes
-![Clientes cadastrados](docs/imagens/clientes-lista.png)
+![Clientes cadastrados](docs/image/clientes-lista.png)
 
 ### 📅 Novo agendamento
-![Novo agendamento](docs/imagens/agendamentos-cadastro.png)
+![Novo agendamento](docs/image/agendamentos-cadastro.png)
 
 ### 🗓️ Gerenciamento de agendamentos
-![Lista de agendamentos](docs/imagens/agendamentos-lista.png)
+![Lista de agendamentos](docs/image/agendamentos-lista.png)
 
 ## 👨‍💻 Desenvolvedor
 
