@@ -468,3 +468,71 @@ input[type="date"] {
         width: 100%;
     }
 }
+
+
+/* ==========================================
+   MELHORIA DAS TABELAS
+   ========================================== */
+
+/* Permite rolagem horizontal */
+.tabela-responsiva {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Evita que muitas colunas fiquem apertadas */
+.tabela-responsiva table {
+    width: 100%;
+    min-width: 950px;
+    border-collapse: collapse;
+}
+
+/* Impede a quebra de datas e textos das células */
+.tabela-responsiva th,
+.tabela-responsiva td {
+    white-space: nowrap;
+    overflow-wrap: normal;
+    word-break: normal;
+    vertical-align: middle;
+}
+
+/* Mantém os botões alinhados */
+.tabela-responsiva .acoes {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 8px;
+}
+
+/* Evita que os botões sejam comprimidos */
+.tabela-responsiva .acoes button,
+.tabela-responsiva .acoes a {
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+/* Aparência das linhas */
+.tabela-responsiva tbody tr:hover {
+    background: #263447;
+}
+
+/* Barra de rolagem */
+.tabela-responsiva::-webkit-scrollbar {
+    height: 8px;
+}
+
+.tabela-responsiva::-webkit-scrollbar-track {
+    background: #111827;
+    border-radius: 8px;
+}
+
+.tabela-responsiva::-webkit-scrollbar-thumb {
+    background: #4b5563;
+    border-radius: 8px;
+}
+
+.tabela-responsiva::-webkit-scrollbar-thumb:hover {
+    background: #fbbf24;
+}
