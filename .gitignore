@@ -1,0 +1,13 @@
+
+# Configurações locais
+/config/config.local.php
+
+# Arquivos de ambiente
+.env
+.env.*
+
+# Dependências
+/vendor/
+
+# Arquivos temporários
+*.log
